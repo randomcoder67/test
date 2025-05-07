@@ -1,0 +1,240 @@
+{
+  "customs": {
+    "EscapeTimeLimit": 40,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 13,
+    "maxBotPerZone": 4,
+    "scavHotZones": [
+      "ZoneDormitory"
+    ],
+    "pmcHotZones": [
+      "ZoneDormitory"
+    ],
+    "defaultBossSettings": {
+      "bossKnight": {
+        "BossChance": 18
+      },
+      "bossBully": {
+        "BossChance": 15
+      },
+      "sectantPriest": {
+        "BossChance": 6
+      },
+      "arenaFighterEvent": {
+        "BossChance": 30
+      }
+    }
+  },
+  "factoryDay": {
+    "EscapeTimeLimit": 20,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 8,
+    "maxBotPerZone": 4,
+    "defaultBossSettings": {
+      "bossTagilla": {
+        "BossChance": 18
+      }
+    }
+  },
+  "factoryNight": {
+    "EscapeTimeLimit": 20,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 8,
+    "maxBotPerZone": 0,
+    "defaultBossSettings": {
+      "bossTagilla": {
+        "BossChance": 18
+      }
+    }
+  },
+  "interchange": {
+    "EscapeTimeLimit": 40,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 12,
+    "maxBotPerZone": 2,
+    "scavHotZones": [
+      "ZoneCenterBot",
+      "ZoneGoshan",
+      "ZoneIDEA"
+    ],
+    "pmcHotZones": [
+      "ZoneCenter"
+    ],
+    "defaultBossSettings": {
+      "bossKilla": {
+        "BossChance": 18
+      }
+    }
+  },
+  "laboratory": {
+    "EscapeTimeLimit": 35,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 0,
+    "maxBotPerZone": 0
+  },
+  "lighthouse": {
+    "EscapeTimeLimit": 40,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 17,
+    "maxBotPerZone": 8,
+    "scavHotZones": [
+      "Zone_Rocks",
+      "Zone_Chalet"
+    ],
+    "pmcHotZones": [
+      "Zone_Village",
+      "Zone_Chalet"
+    ],
+    "defaultBossSettings": {
+      "bossZryachiy": {
+        "BossChance": 100
+      },
+      "bossKnight": {
+        "BossChance": 18
+      }
+    }
+  },
+  "rezervbase": {
+    "EscapeTimeLimit": 40,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 13,
+    "maxBotPerZone": 4,
+    "scavHotZones": [
+      "ZoneRailStrorage"
+    ],
+    "pmcHotZones": [
+      "ZoneBarrack"
+    ],
+    "defaultBossSettings": {
+      "bossGluhar": {
+        "BossChance": 18
+      }
+    }
+  },
+  "shoreline": {
+    "EscapeTimeLimit": 45,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 13,
+    "maxBotPerZone": 4,
+    "scavHotZones": [
+      "ZonePowerStation",
+      "ZoneForestTruck",
+      "ZoneSanatorium1",
+      "ZoneSanatorium2"
+    ],
+    "pmcHotZones": [
+      "ZoneSanatorium1",
+      "ZoneSanatorium2"
+    ],
+    "defaultBossSettings": {
+      "bossKnight": {
+        "BossChance": 18
+      },
+      "bossSanitar": {
+        "BossChance": 15
+      },
+      "sectantPriest": {
+        "BossChance": 4
+      },
+      "arenaFighterEvent": {
+        "BossChance": 30
+      }
+    }
+  },
+  "tarkovstreets": {
+    "EscapeTimeLimit": 50,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 19,
+    "maxBotPerZone": 5,
+    "defaultBossSettings": {
+      "bossBoar": {
+        "BossChance": 37
+      },
+      "bossBoarSniper": {
+        "BossChance": 100
+      }
+    }
+  },
+  "woods": {
+    "EscapeTimeLimit": 40,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 13,
+    "maxBotPerZone": 4,
+    "scavHotZones": [
+      "ZoneWoodCutter"
+    ],
+    "pmcHotZones": [
+      "ZoneRoad"
+    ],
+    "defaultBossSettings": {
+      "bossKnight": {
+        "BossChance": 18
+      },
+      "bossKojaniy": {
+        "BossChance": 18
+      },
+      "sectantPriest": {
+        "BossChance": 6
+      },
+      "arenaFighterEvent": {
+        "BossChance": 30
+      }
+    }
+  },
+  "gzLow": {
+    "EscapeTimeLimit": 35,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 13,
+    "maxBotPerZone": 4
+  },
+  "gzHigh": {
+    "EscapeTimeLimit": 35,
+    "scavWaveMultiplier": 1,
+    "scavWaveStartRatio": 0.5,
+    "pmcWaveStartRatio": 0.8,
+    "pmcWaveMultiplier": 1,
+    "maxBotCap": 13,
+    "maxBotPerZone": 4,
+    "defaultBossSettings": {
+      "sectantPriest": {
+        "BossChance": 44
+      },
+      "bossKolontay": {
+        "BossChance": 45
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "customs": {
+    "pmcWaveCount": 9,
+    "scavWaveCount": 21
+  },
+  "factoryDay": {
+    "pmcWaveCount": 4,
+    "scavWaveCount": 6
+  },
+  "factoryNight": {
+    "pmcWaveCount": 4,
+    "scavWaveCount": 6
+  },
+  "interchange": {
+    "pmcWaveCount": 12,
+    "scavWaveCount": 32
+  },
+  "laboratory": {
+    "pmcWaveCount": 9,
+    "scavWaveCount": 0
+  },
+  "lighthouse": {
+    "pmcWaveCount": 10,
+    "scavWaveCount": 20
+  },
+  "rezervbase": {
+    "pmcWaveCount": 9,
+    "scavWaveCount": 24
+  },
+  "shoreline": {
+    "pmcWaveCount": 12,
+    "scavWaveCount": 32
+  },
+  "tarkovstreets": {
+    "pmcWaveCount": 13,
+    "scavWaveCount": 28
+  },
+  "woods": {
+    "pmcWaveCount": 10,
+    "scavWaveCount": 28
+  },
+  "gzLow": {
+    "pmcWaveCount": 9,
+    "scavWaveCount": 18
+  },
+  "gzHigh": {
+    "pmcWaveCount": 9,
+    "scavWaveCount": 18
+  }
+}

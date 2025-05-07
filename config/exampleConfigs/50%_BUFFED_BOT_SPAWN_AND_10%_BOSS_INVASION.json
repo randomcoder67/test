@@ -1,0 +1,37 @@
+{
+  "enableBotSpawning": true,
+
+  "defaultScavStartWaveRatio": 0.5,
+  "defaultScavWaveMultiplier": 1.5,
+
+  "defaultPmcStartWaveRatio": 0.8,
+  "defaultPmcWaveMultiplier": 1.5,
+
+  "defaultMaxBotCap": 25,
+  "defaultMaxBotPerZone": 7,
+
+  "defaultGroupMaxPMC": 4,
+  "defaultGroupMaxScav": 3,
+
+  "sniperBuddies": false,
+
+  "noZoneDelay": false,
+  "reducedZoneDelay": true,
+  "allOpenZones": false,
+  "bossOpenZones": false,
+
+  "randomRaiderGroup": false,
+  "randomRaiderGroupChance": 10,
+
+  "randomRogueGroup": false,
+  "randomRogueGroupChance": 10,
+
+  "disableBosses": false,
+  "mainBossChanceBuff": 0,
+
+  "bossInvasion": true,
+  "bossInvasionSpawnChance": 10,
+  "gradualBossInvasion": true,
+
+  "debug": false
+}

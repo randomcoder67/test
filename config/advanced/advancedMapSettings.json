@@ -1,0 +1,60 @@
+{
+  "customs": {
+    "scavHotZones": ["ZoneDormitory"],
+    "pmcHotZones": ["ZoneDormitory"],
+    "defaultBossSettings": {
+      "bossKnight": {
+        "BossChance": 10
+      },
+      "arenaFighterEvent": {
+        "BossChance": 10
+      }
+    }
+  },
+  "factoryDay": {
+    "maxBotPerZone": 10
+  },
+  "factoryNight": {
+    "maxBotPerZone": 10
+  },
+  "interchange": {
+    "scavHotZones": ["ZoneCenterBot", "ZoneCenter"],
+    "pmcHotZones": []
+  },
+  "laboratory": {},
+  "lighthouse": {
+    "scavHotZones": ["Zone_LongRoad", "Zone_LongRoad"],
+    "pmcHotZones": []
+  },
+  "rezervbase": {
+    "scavHotZones": ["ZoneRailStrorage"],
+    "pmcHotZones": ["ZoneBarrack"]
+  },
+  "shoreline": {
+    "scavHotZones": ["ZoneSanatorium1"],
+    "pmcHotZones": ["ZoneSanatorium2"],
+    "defaultBossSettings": {
+      "bossKnight": {
+        "BossChance": 10
+      },
+      "arenaFighterEvent": {
+        "BossChance": 10
+      }
+    }
+  },
+  "tarkovstreets": {},
+  "woods": {
+    "scavHotZones": ["ZoneWoodCutter"],
+    "pmcHotZones": [],
+    "defaultBossSettings": {
+      "bossKnight": {
+        "BossChance": 10
+      },
+      "arenaFighterEvent": {
+        "BossChance": 10
+      }
+    }
+  },
+  "gzLow": {},
+  "gzHigh": {}
+}
